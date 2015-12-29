@@ -1,0 +1,15 @@
+=======================To the expiration of Registration ID===============================
+both devices registered at around 11pm 11/8/2015
+
+Test at 10:27 AM 11/9/2015: two ids still valid after roughly 11 hours
+
+Test at 1:08 PM 11/9/2015: still working all right. 
+
+Test at 4:58 PM 11/9/2015: Android device still fine, but the genymotion is done. Problem found: probably due to the emulator.
+Will continue watching the physical android device.
+
+Test at 10:23 PM 11/9/2015: Android device still normal.
+
+Test at 10:39 AM 11/10/2015: Android device still normal.
+
+Test at 8:29 PM 11/10/2015: Android device become unregistered.

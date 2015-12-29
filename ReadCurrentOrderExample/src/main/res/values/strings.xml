@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">ReadCurrentOrderExample</string>
+
+  <string name="no_account">There is no Clover account.</string>
+
+  <string name="order_id_title">Order Id:</string>
+  <string name="line_item_count_title">Number of Line Items:</string>
+  <string name="total_title">Total:</string>
+  <string name="create_time_title">Create Time:</string>
+
+  <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcmsender to
+        send downstream messages to this app.</string>
+  <string name="registering_message">Generating InstanceID token...</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+
+</resources>
